@@ -1,0 +1,1 @@
+{"author":"jehan771","description":"One original joke about Monday mornings, at most 200 characters, for the make.fun Monday Morning Punchlines bounty.","license":"MIT","main":"main.ts","name":"monday-morning-punchlines","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
